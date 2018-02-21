@@ -1,0 +1,13 @@
+X:\ZPR\Servisni prokotol\prokotol\prokotol\bin\Debug\prokotol.exe.config
+X:\ZPR\Servisni prokotol\prokotol\prokotol\bin\Debug\prokotol.exe
+X:\ZPR\Servisni prokotol\prokotol\prokotol\bin\Debug\prokotol.pdb
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.csprojResolveAssemblyReference.cache
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.Form1.resources
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.Properties.Resources.resources
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.ZakladniInformace.resources
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.csproj.GenerateResource.Cache
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.exe
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.pdb
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.zakaznik.resources
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.Zarizeni.resources
+X:\ZPR\Servisni prokotol\prokotol\prokotol\obj\Debug\prokotol.Nahled.resources
